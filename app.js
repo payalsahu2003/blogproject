@@ -19,5 +19,4 @@ mongoose
     .then(() => console.log("connected to database and listening to localhost 6000"))
     .catch((err) => console.log(err));
 
-// app.listen(5000);
 //vvmI7pMR6cWwBAS8
